@@ -8,3 +8,6 @@ Day 2 - Will be doing the input-target pairs today and with that will be trying 
 
 Day 3 - After few days I will be uploading the full code upto Input-target Pair, then proceed for vector 
         embeddings and all 
+
+Day 4 - Today will be implementing the dataloader then i will go for vecors and all
+
