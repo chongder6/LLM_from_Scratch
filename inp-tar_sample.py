@@ -87,3 +87,13 @@ for i in range(1, context_size+1):
 # Step4: Return a Single row from the dataset at first
 
 # *one more thing we will be calling it like input tensors and output(target) tensors*
+
+
+from torch.utils.data import Dataset, DataLoader
+class GPTDatasetV1(Dataset):
+  def __init__(self, txt, tokenizer, max_length, stride):
+    self.input_ids = []
+    self.target_ids = []
+
+    token_ids = tokenizer.encode(raw_ds, allowed_special="<|endoftext|>")
+    
