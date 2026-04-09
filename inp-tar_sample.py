@@ -96,4 +96,6 @@ class GPTDatasetV1(Dataset):
     self.target_ids = []
 
     token_ids = tokenizer.encode(raw_ds, allowed_special="<|endoftext|>")
+
+# coming soon but not here go for the next part .py 
     
