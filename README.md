@@ -11,3 +11,5 @@ Day 3 - After few days I will be uploading the full code upto Input-target Pair,
 
 Day 4 - Today will be implementing the dataloader then i will go for vecors and all
 
+Day 5 - From last 2 days.. have done nothing due to something related to work
+
