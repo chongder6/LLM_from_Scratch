@@ -13,3 +13,4 @@ Day 4 - Today will be implementing the dataloader then i will go for vecors and 
 
 Day 5 - From last 2 days.. have done nothing due to something related to work
 
+Day  - **Already Done with the LLM** ... will be implementing it and will also upload the PRDs and other proper documentation .. this document is only for my track purpose 
