@@ -183,29 +183,29 @@ LLM_from_Scratch/
 
 ## 📈 Development Journey
 
-### Day 1
+### Week 1
 
 ✅ Implemented the basic BPE Tokenizer.
 
-### Day 2
+### Week 1
 
 ✅ Worked on Input-Target Pair generation.
 
 ✅ Improved tokenizer design and vocabulary handling.
 
-### Day 3
+### Week 2
 
 ✅ Continued preprocessing pipeline development.
 
 ✅ Started planning vector embeddings implementation.
 
-### Day 4
+### Week 3
 
 ✅ Implemented Data Loader architecture.
 
 ✅ Prepared foundation for embedding layers.
 
-### Day 5
+### Week 4
 
 ⚠️ Development paused temporarily due to professional commitments.
 
@@ -276,7 +276,7 @@ It helps others discover the project and motivates further development.
 
 ## 👨‍💻 Author
 
-**Swagata**
+**ikiryo**
 
 Building AI systems from first principles, one component at a time.
 
